@@ -16,6 +16,8 @@
     <name>spring-cloud-test</name>
     <modules>
         <module>eruka-server</module>
+        <module>compute-service</module>
+        <module>compute-service2</module>
     </modules>
     <repositories>
         <repository>
