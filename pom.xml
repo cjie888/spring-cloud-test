@@ -19,6 +19,7 @@
         <module>compute-service</module>
         <module>compute-service2</module>
         <module>eureka-ribbon</module>
+        <module>eureka-feign</module>
     </modules>
     <repositories>
         <repository>
