@@ -15,7 +15,7 @@
     <version>0.0.1-SNAPSHOT</version>
     <name>spring-cloud-test</name>
     <modules>
-        <module>eruka-server</module>
+        <module>eureka-server</module>
         <module>compute-service</module>
         <module>compute-service2</module>
         <module>eureka-ribbon</module>
