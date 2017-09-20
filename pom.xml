@@ -18,6 +18,7 @@
         <module>eruka-server</module>
         <module>compute-service</module>
         <module>compute-service2</module>
+        <module>eureka-ribbon</module>
     </modules>
     <repositories>
         <repository>
