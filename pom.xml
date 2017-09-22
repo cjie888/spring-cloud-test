@@ -20,6 +20,7 @@
         <module>compute-service2</module>
         <module>eureka-ribbon</module>
         <module>eureka-feign</module>
+        <module>eureka-ribbon-hystrix</module>
     </modules>
     <repositories>
         <repository>
@@ -42,6 +43,10 @@
         <dependency>
             <groupId>org.springframework.cloud</groupId>
             <artifactId>spring-cloud-starter-eureka-server</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.springframework.cloud</groupId>
+            <artifactId>spring-cloud-starter-hystrix</artifactId>
         </dependency>
     </dependencies>
     <dependencyManagement>
