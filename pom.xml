@@ -21,6 +21,7 @@
         <module>eureka-ribbon</module>
         <module>eureka-feign</module>
         <module>eureka-ribbon-hystrix</module>
+        <module>eureka-feign-hystrix</module>
     </modules>
     <repositories>
         <repository>
