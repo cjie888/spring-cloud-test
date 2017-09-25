@@ -24,6 +24,7 @@
         <module>eureka-feign-hystrix</module>
         <module>zuul-service-A</module>
         <module>zuul-service-B</module>
+        <module>zuul-api-gateway</module>
     </modules>
     <repositories>
         <repository>
@@ -50,6 +51,11 @@
         <dependency>
             <groupId>org.springframework.cloud</groupId>
             <artifactId>spring-cloud-starter-hystrix</artifactId>
+        </dependency>
+
+        <dependency>
+            <groupId>org.springframework.cloud</groupId>
+            <artifactId>spring-cloud-starter-zuul</artifactId>
         </dependency>
     </dependencies>
     <dependencyManagement>
