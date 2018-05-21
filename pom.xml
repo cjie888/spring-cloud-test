@@ -25,6 +25,7 @@
         <module>zuul-service-A</module>
         <module>zuul-service-B</module>
         <module>zuul-api-gateway</module>
+        <module>rabbitmq</module>
     </modules>
     <repositories>
         <repository>
